@@ -9,20 +9,21 @@ This repository contains a collection of **Machine Learning algorithms** organiz
 Supervised learning uses labeled data to train models for predictions. It is divided into two types:
 
 ### 1. Classification
-- **Decision Trees** – [Decision Tree Repo](LINK_HERE)
-- **Random Forest** – [Random Forest Repo](LINK_HERE)
-- **SVM (Support Vector Machines)** – [SVM Repo](LINK_HERE)
-- **KNN (K-Nearest Neighbors)** – [KNN Repo](LINK_HERE)
-- **Logistic Regression** – [Logistic Regression Repo](LINK_HERE)
-- **Naive Bayes** – [Naive Bayes Repo](LINK_HERE)
-- **Gradient Boosting** – [Gradient Boosting Repo](LINK_HERE)
+- **Decision Trees** – [Decision Tree Repo](https://github.com/johnjabez15/Decision_Tree)
+- **Random Forest** – [Random Forest Repo](https://github.com/johnjabez15/Random_Forest)
+- **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/johnjabez15/Support_Vector_Machine)
+- **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/johnjabez15/K-Nearest_Neighbour)
+- **Logistic Regression** – [Logistic Regression Repo](https://github.com/johnjabez15/Logistic_Regression)
+- **Naive Bayes** – [Naive Bayes Repo](https://github.com/johnjabez15/Naive_Bayes)
+- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/johnjabez15/Gradient_Boosting)
 
 ---
 
 ### 2. Regression
-- **Linear Regression** – [Linear Regression Repo](LINK_HERE)
-- **Ridge Regression** – [Ridge Regression Repo](LINK_HERE)
-- **Lasso Regression** – [Lasso Regression Repo](LINK_HERE)
+- **Linear Regression** – [Linear Regression Repo](https://github.com/johnjabez15/Linear_Regression)
+- **Ridge Regression** – [Ridge Regression Repo](https://github.com/johnjabez15/Ridge_Regression)
+- **Lasso Regression** – [Lasso Regression Repo](https://github.com/johnjabez15/Lasso_Regression)
+- **Elastic Net Regression** - [Elastic Net Regression Repo](https://github.com/johnjabez15/Elastic_Net_Regression)
 
 ___
 
@@ -31,9 +32,9 @@ ___
 Unsupervised learning uses unlabeled data to find patterns and relationships.
 
 ### 1. Clustering
-- **K - Means Clustering** - [K - Means Repo](LINK_HERE)
-- **Hierarchial Clustering** - [Hierarchial Clustering Repo](LINK_HERE)
-- **DBSCAN** - [DBSCAN Repo](LINK_HERE)
+- **K - Means Clustering** - [K - Means Repo](https://github.com/johnjabez15/K-Means_Clustering)
+- **Hierarchial Clustering** - [Hierarchial Clustering Repo](https://github.com/johnjabez15/Hierarchical_Clustering)
+- **DBSCAN** - [DBSCAN Repo](https://github.com/johnjabez15/DBSCAN)
 
 ___
 
