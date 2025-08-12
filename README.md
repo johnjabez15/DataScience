@@ -39,4 +39,4 @@ Unsupervised learning uses unlabeled data to find patterns and relationships.
 ___
 
 ### 2. Dimensionality Reduction
-- **PCA (Principle Component Analysis)** - [PCA Repo](LINK_HERE)
+- **PCA (Principle Component Analysis)** - [PCA Repo](https://github.com/johnjabez15/Principle_Component_Analysis)
